@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Magistral';
+    src: url('Magistral-Medium.eot');
+    src: local('Magistral Medium'), local('Magistral-Medium'),
+        url('../fonts/Magistral-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Magistral-Medium.woff2') format('woff2'),
+        url('../fonts/Magistral-Medium.woff') format('woff'),
+        url('../fonts/Magistral-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Magistral';
+    src: url('Magistral-Bold.eot');
+    src: local('Magistral Bold'), local('Magistral-Bold'),
+        url('../fonts/Magistral-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Magistral-Bold.woff2') format('woff2'),
+        url('../fonts/Magistral-Bold.woff') format('woff'),
+        url('../fonts/Magistral-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}

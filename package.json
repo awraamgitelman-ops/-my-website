@@ -1,0 +1,23 @@
+{
+  "name": "perevoz-dnepr-clone",
+  "version": "1.0.0",
+  "description": "1:1 Clone of perevoz-dnepr.com.ua adapted for Railway hosting",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node -e \"console.log('Build OK')\""
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "railway",
+    "perevoz-dnepr",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
